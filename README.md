@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/tu-usuario/tu-usuario/blob/main/assets/banner-blue.png" alt="Banner Azul" width="100%" />
+  <img src="https://github.com/ezequielatsuri/ezequielatsuri/banner.png" alt="Banner Azul" width="100%" />
 </p>
 
 <h1 align="center">¡Hola! 👋 Soy Ezequiel Atsuri</h1>
@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre mí  
 Soy un **Estudiante de Ingeniería en Sistemas Computacionales** con vocación por el desarrollo de software y el aprendizaje continuo.  
-Me especializo en **desarrollo web full-stack** con orientación a desarrollo backeed.
+Me especializo en **desarrollo web full-stack** con orientación a desarrollo backeed en springboot.
 
 Me mantengo actualizado con las últimas tendencias tecnológicas a través de mi formación académica y plataformas educativas como **Platzi**.  
 Soy una persona **proactiva**, **curiosa** y **comprometida** con mi desarrollo profesional.
@@ -34,12 +34,6 @@ Actualmente busco **oportunidades para aplicar mis conocimientos en proyectos re
 - Despliegue de aplicaciones web.
 - Gestion de proyectos.
 - Framework angular.
-
----
-
-## 🤝 Buscando colaborar en  
-- Proyectos **Open Source** relacionados con e-commerce, sistemas de reservas o comunicación en tiempo real.
-- Soluciones que mejoren la experiencia de usuario en aplicaciones web.
 
 ---
 
