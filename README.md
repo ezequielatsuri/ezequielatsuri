@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/ezequielatsuri/ezequielatsuri/blob/master/banner.png" alt="Banner Azul" width="100%" />
+  <img src="https://github.com/ezequielatsuri/ezequielatsuri/blob/master/banner_a.png" alt="Banner Azul" width="100%" />
 </p>
 
 <h1 align="center">¡Hola! 👋 Soy Ezequiel Atsuri</h1>
@@ -60,7 +60,7 @@ Un atardecer aclara mi mente de cualquier cosa que haya pasado en mi dia.
 
 <!-- Estadísticas de GitHub -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=blueberry" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ezequielatsuri&show_icons=true&theme=blueberry" alt="GitHub Stats" />
 </p>
 
 <p align="center">
