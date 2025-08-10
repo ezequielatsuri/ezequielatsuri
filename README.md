@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/ezequielatsuri/ezequielatsuri/banner.png" alt="Banner Azul" width="100%" />
+  <img src="https://github.com/ezequielatsuri/ezequielatsuri/blob/master/banner.png" alt="Banner Azul" width="100%" />
 </p>
 
 <h1 align="center">¡Hola! 👋 Soy Ezequiel Atsuri</h1>
@@ -64,7 +64,7 @@ Un atardecer aclara mi mente de cualquier cosa que haya pasado en mi dia.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=blueberry" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezequielatsuri&theme=blueberry" alt="GitHub Streak" />
 </p>
 
 
