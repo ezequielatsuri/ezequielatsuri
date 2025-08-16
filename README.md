@@ -1,4 +1,4 @@
-ya<!-- Banner -->
+<!-- Banner -->
 <p align="center">
   <img src="https://github.com/ezequielatsuri/ezequielatsuri/blob/master/banner_a.png" alt="Banner Azul" width="100%" />
 </p>
@@ -67,9 +67,9 @@ Un atardecer aclara mi mente de cualquier cosa que haya pasado en mi dia.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezequielatsuri&theme=blueberry" alt="GitHub Streak" />
 </p>
 
-
-### Lenguajes que más uso
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielatsuri&layout=compact&langs_count=8)
+
+![Languages by repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ezequielatsuri&theme=default)
 
 <!--
 **ezequielatsuri/ezequielatsuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
